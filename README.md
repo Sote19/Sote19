@@ -1,6 +1,3 @@
-#Snake Repository
-![SnakeProfile](snake.svg)
-
 # 💫 About Me:
 Estudiando... 🎓Grado en Ciberseguridad🔐<br><br>Buscando... 🌐Hacer la web más segura🔒<br><br>Colaborando... 🛡️Proyectos de Ciberseguridad💻<br><br>Fact... 👂Escuchar es mejor que hablar🗣️
 
@@ -22,3 +19,5 @@ Estudiando... 🎓Grado en Ciberseguridad🔐<br><br>Buscando... 🌐Hacer la we
 [![](https://visitcount.itsvg.in/api?id=Sote19&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🐍 Snake:
+![SnakeProfile](snake.svg)
