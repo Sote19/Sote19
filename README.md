@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiando... 🎓Grado en Ciberseguridad🔐<br><br>Buscando... 🌐Hacer la web más segura🔒<br><br>Colaborando... 🛡️Proyectos de Ciberseguridad💻<br><br>Fact... 👂Escuchar es mejor que hablar🗣️
+Estudiando... 🎓Ingenieria en Ciberseguridad🔐<br><br>Buscando... 🌐Hacer la web más segura🔒<br><br>Colaborando... 🛡️Proyectos de Ciberseguridad & Hackathons💻<br><br>Fact... 👂Escuchar es mejor que hablar🗣️
 
 
 ## 🌐 Socials:
